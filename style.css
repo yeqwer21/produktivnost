@@ -1,0 +1,40 @@
+.inbig {
+    display: flex;
+    
+}
+.img {
+    width:500px;
+}
+.catalog {
+    display: flex;
+
+}
+.catalog img {
+    width: 150px;
+    margin:10px ;
+}
+.ufhafd img {
+    width: 500px;
+}
+.ufhafd {
+  display: flex;   
+}
+.center {
+    text-align: center;
+}
+.second {
+    background-color:#dbdada ;
+}
+.insec {
+    display: flex;
+    flex-wrap: wrap;
+      
+}
+.dsdaadw {
+    background-color: white;
+    width: 330px;
+    margin: 10px ;
+    border-radius: 10px;
+    padding: 5px;
+
+}
