@@ -24,20 +24,25 @@
 }
 .second {
     background-color:#dbdada ;
-     padding-top: 95px;
+    padding-top: 95px;
     padding-left:20px;
     padding-right:20px;
 }
 .insec {
     display: flex;
     flex-wrap: wrap;
+
       
 }
 .dsdaadw {
     background-color: white;
     width: 330px;
-    margin: 50px ;
+    margin: 10px ;
     border-radius: 10px;
-    padding: 5px;
+    padding:5px;
 
+}
+.big {
+    margin-left:100px;
+    margin-right: 100px;
 }
